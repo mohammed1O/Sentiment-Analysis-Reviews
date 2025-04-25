@@ -1,4 +1,4 @@
-Sentiment Analysis for Amazon Reviews
+## Sentiment Analysis of Reviews Using VADER and RoBERTa 
 Environment Setup and Dependencies
 To run the project, ensure you have the following dependencies installed:
 
